@@ -7,27 +7,32 @@ def array_with_two_elements
 end
 
 
-taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
+
 
 def first_element(num)
+  taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
   taylor_swift[num]
 end
 
 def third_element(num)
+  taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
   taylor_swift[num]
 end
 
 def last_element(num)
+  taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
   taylor_swift[num]
 end
 
-south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
+
 
 def first_element_with_array_methods
+  south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
   south_east_asia.first
 end
 
 def last_element_with_array_methods
+  south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
   south_east_asia.last
 end
   
