@@ -9,16 +9,16 @@ end
 
 taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
 
-def first_element
-  taylor_swift[0]
+def first_element(num)
+  taylor_swift[num]
 end
 
-def third_element
-  taylor_swift[2]
+def third_element(num)
+  taylor_swift[num]
 end
 
-def last_element
-  taylor_swift[-1]
+def last_element(num)
+  taylor_swift[num]
 end
 
 south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
